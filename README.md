@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img src="Hadafi/images/GP1logo-1.jpg" alt="Hadafi Logo" width="400"/>
+</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00BFFF&lines=Hi+There!+👋;+We+are+Hadafi+Team!;" />
